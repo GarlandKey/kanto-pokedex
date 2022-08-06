@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="Pokemon Kanto Pokedex">
+
+		<title>Pokemon Kanto Pokedex</title>
+
+	    <!-- font awesome -->
+    	<script src="https://kit.fontawesome.com/e4fc72c080.js" crossorigin="anonymous"></script>
+
+		<!-- fav icon -->
+		<link rel="icon" href="img/favicon.webp">
+
+		<!-- fonts -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Nunito&family=Source+Code+Pro&display=swap" rel="stylesheet"> 
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<section class="primaryContainer">
+			<img id="logo" src="img/pokemon-logo.svg" alt="Pokemon">
+			<h1>Kanto Pokédex</h1>
+			<!-- form -->
+			<form id="pokemonInputContainer" onsubmit="return false">
+				<input id="pokemonInput" type="text" name="" placeholder="Enter Pokemon Name" value="">
+				<button id="pokemonInputBtn" type="submit" name="button"><i class="fa fa-search"></i></button>
+			</form>
+			<!-- pokedex -->
+			<section id="dexContainer">
+				<div id="dexImageAlign">
+					<img id="dex" src="img/pokedex.svg" alt="A beautifully drawn Pokedex from the original Pokemon cartoon series. It is firetruck red, with a screen to display the pokemon and a data screen to show the pokemon's stats.">
+					<div id="dexScreen">
+						<img id='dexPokeImg' src="" alt="">
+					</div>
+					<!-- <img class="hidden" id="dexGlow" src="img/glow.svg" alt=""> -->
+					<p id="dexText"></p>
+				</div>
+			</section>
+			<footer>
+				<small>This is a fan site. All </small>
+			</footer>
+		</section>
+		<script type="text/javascript" src="js/main.js"></script>
+	</body>
+</html>

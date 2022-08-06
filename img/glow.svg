@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="75"
+   height="75"
+   viewBox="0 0 19.84375 19.84375"
+   version="1.1"
+   id="svg279680"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="glow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title835">Pokedex Light Glow</title>
+  <sodipodi:namedview
+     id="namedview279682"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="6.2217172"
+     inkscape:cx="62.121113"
+     inkscape:cy="56.254566"
+     inkscape:window-width="1895"
+     inkscape:window-height="2063"
+     inkscape:window-x="1925"
+     inkscape:window-y="58"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs279677">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6711"
+       x="-0.074900587"
+       y="-0.075144057"
+       width="1.1498012"
+       height="1.1502881">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.50790891"
+         id="feGaussianBlur6713" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#29acfe;fill-opacity:0.49978802;stroke:none;stroke-width:0.90672;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter6711);stop-color:#000000"
+       id="ellipse6601"
+       cx="16.262302"
+       cy="17.302065"
+       rx="8.1373281"
+       ry="8.1109629"
+       transform="matrix(1.0604466,0,0,1.0634401,-7.3234371,-8.4778728)" />
+    <ellipse
+       style="fill:#29acfe;fill-opacity:0.65320289;stroke:none;stroke-width:0.882269;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stop-color:#000000"
+       id="ellipse5681"
+       cx="9.9218674"
+       cy="9.9218369"
+       rx="8.0335245"
+       ry="7.7786374" />
+  </g>
+  <metadata
+     id="metadata831">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:date>04/27/2022</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Garland Key</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Pokedex Light Glow</dc:title>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Garland Key</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>pokemon</rdf:li>
+            <rdf:li>pokedex</rdf:li>
+            <rdf:li>glow</rdf:li>
+            <rdf:li>light</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Garland Key</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:description>This is a glow that is intended to overay another image on a webpage.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
